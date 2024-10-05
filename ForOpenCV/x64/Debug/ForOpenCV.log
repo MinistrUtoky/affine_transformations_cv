@@ -1,0 +1,198 @@
+﻿  affine_transformations.cpp
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.h(15,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(38,22): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(38,22): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(38,22): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(38,22): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(38,22): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(39,22): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(39,22): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(39,22): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(39,22): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(39,22): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(63,13): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(63,13): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(63,13): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(63,13): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(63,13): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(63,29): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(63,29): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(63,29): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(63,29): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(63,29): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(73,9): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(73,9): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(73,9): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(73,9): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(73,9): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(73,25): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(73,25): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(73,25): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(73,25): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(73,25): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(74,6): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(74,6): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(74,6): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(74,6): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(74,6): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(74,24): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(74,24): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(74,24): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(74,24): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(74,24): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(75,6): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(75,6): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(75,6): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(75,6): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(75,6): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(75,23): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(75,23): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(75,23): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(75,23): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(75,23): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(76,6): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(76,6): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(76,6): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(76,6): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(76,6): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(76,25): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(76,25): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(76,25): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(76,25): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(76,25): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(81,92): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(81,92): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(81,92): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(81,92): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(81,92): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(81,80): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(81,80): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(81,80): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(81,80): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(81,80): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(81,68): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(81,68): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(81,68): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(81,68): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(81,68): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(81,55): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(81,55): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(81,55): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(81,55): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(81,55): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(81,42): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(81,42): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(81,42): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(81,42): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(81,42): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(81,31): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(81,31): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(81,31): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(81,31): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(81,31): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(82,98): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(82,98): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(82,98): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(82,98): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(82,98): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(82,85): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(82,85): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(82,85): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(82,85): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(82,85): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(82,72): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(82,72): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(82,72): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(82,72): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(82,72): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(82,58): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(82,58): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(82,58): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(82,58): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(82,58): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(82,44): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(82,44): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(82,44): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(82,44): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(82,44): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(82,32): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(82,32): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(82,32): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(82,32): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(82,32): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(93,92): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(93,92): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(93,92): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(93,92): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(93,92): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(93,80): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(93,80): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(93,80): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(93,80): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(93,80): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(93,68): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(93,68): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(93,68): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(93,68): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(93,68): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(93,55): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(93,55): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(93,55): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(93,55): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(93,55): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(93,42): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(93,42): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(93,42): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(93,42): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(93,42): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(93,31): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(93,31): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(93,31): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(93,31): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(93,31): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(94,98): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(94,98): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(94,98): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(94,98): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(94,98): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(94,85): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(94,85): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(94,85): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(94,85): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(94,85): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(94,72): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(94,72): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(94,72): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(94,72): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(94,72): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(94,58): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(94,58): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(94,58): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(94,58): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(94,58): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(94,44): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(94,44): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(94,44): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(94,44): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(94,44): warning C4244:         ]
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(94,32): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(94,32): warning C4244:         with
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(94,32): warning C4244:         [
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(94,32): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.cpp(94,32): warning C4244:         ]
+  ForOpenCV.cpp
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\affine_transformations.h(15,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\ForOpenCV.cpp(9,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ransac.cpp
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\ransac.cpp(20,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\ransac.cpp(25,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\ransac.cpp(55,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\ransac.cpp(56,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\ransac.cpp(59,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\ransac.cpp(84,108): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\ransac.cpp(84,71): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\ransac.cpp(96,26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\ransac.cpp(143,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\viqto\source\repos\ForOpenCV - Copy\ForOpenCV\ransac.cpp(147,21): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  ForOpenCV.vcxproj -> C:\Users\viqto\source\repos\ForOpenCV - Copy\x64\Debug\ForOpenCV.exe
